@@ -1,2 +1,25 @@
-# universal-web-scraper
-Here’s a concise description within 350 characters:  **Universal Web Scraper:** A flexible Python tool using **Selenium** and **BeautifulSoup** to extract data like titles, prices, links, and more from any website. Handles dynamic content, saves data to CSV, and is easily adaptable for e-commerce, blogs, or listings.
+# Data Scraper
+
+This project is a data scraper built with Python. It collects and processes data using Selenium and other tools.
+
+## Project Structure
+- `collect.py`: Main script for data collection.
+- `project.py`: Additional project logic.
+- `data/`: Directory for storing collected data.
+
+## Setup
+1. Clone the repository.
+2. Install dependencies (e.g., Selenium):
+   ```sh
+   pip install selenium
+   ```
+3. Run the scraper:
+   ```sh
+   python collect.py
+   ```
+
+## Usage
+Modify the scripts as needed for your data sources and requirements.
+
+## License
+Specify your license here.
